@@ -1,0 +1,1 @@
+Basic note app. My old phone book project helped a lot for this project.
